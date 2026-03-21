@@ -3,9 +3,8 @@
 
 i'm building **AI-driven insights**, from soccer market valuations to NLP-based recommendation engines.
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=250&section=header&text=AI%20&%20Data%20Science&fontSize=60&animation=fadeIn" width="100%" />
-</p>
+![math-1-e1497880950572](https://github.com/user-attachments/assets/bf7240ce-df8d-4b9f-a300-a7847f2b875d)
+
 
 ### ✨ Core Expertise
 * 🎬 **Recommendation Systems:** Movie similarity analysis & content-based filtering.
